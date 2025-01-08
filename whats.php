@@ -1,0 +1,1 @@
+<a target="_blank" href="https://api.whatsapp.com/send?l=pt&amp;phone=551147775074" rel="noopener"><img class="flutua" src="assets/img/whatsapp-logo.png" alt="Whats App" style="height:70px; position:fixed; bottom: 25px; right: 25px; z-index:99999;" data-selector="img"></a>
